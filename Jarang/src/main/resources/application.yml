@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    default: local
+  data:
+    mongodb:
+      uri: mongodb://jarang:jarang@ec2-54-180-112-147.ap-northeast-2.compute.amazonaws.com:27017/
